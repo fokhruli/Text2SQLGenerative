@@ -39,6 +39,8 @@ Follow these steps to get Gemini Pro up and running on your local machine:
 5. **Run the Streamlit app**:
     ```bash
     streamlit run app.py
+    # or
+   sh run.sh
     ```
-
+    
 Feel free to contribute, report issues, or give feedback!
