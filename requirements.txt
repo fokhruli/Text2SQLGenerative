@@ -1,0 +1,5 @@
+streamlit==1.28.1
+python-dotenv==1.0.0
+pyodbc==4.0.39
+google-generativeai==0.3.2
+pandas==2.1.3
